@@ -3714,17 +3714,17 @@
         display: inline-block
         }     
         .profileContainer{
-    float:right;
-    padding-top: 20px;
-    padding-right: 60px;
-    padding-bottom: 20px;
-    padding-left: 20px;
+    float:left;
+    padding-top: 30px;
+    padding-right: 110px;
+    padding-bottom: 30px;
+    padding-left: 0px;
         display: inline-block
 }
 
 .circular img{
-	width: 200px;
-	height: 200px;
+	/*width: 200px;
+	height: 200px;*/
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
